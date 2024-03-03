@@ -1,4 +1,4 @@
-# (c) @biisal
+# (c) @soyalkhann
 # (c) adars h-goel
 import os
 import sys
