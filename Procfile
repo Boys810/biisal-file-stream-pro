@@ -1,2 +1,2 @@
-web: python -biisal
+web: python -m biisal
  
