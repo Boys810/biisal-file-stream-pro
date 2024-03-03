@@ -1,2 +1,2 @@
-web: python -soyal khan
+web: python -biisal
  
