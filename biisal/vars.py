@@ -6,9 +6,9 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
-bot_name = "Bɪɪsᴀʟ Fɪʟᴇ2Lɪɴᴋ Bᴏᴛ"
-bisal_channel = "https://telegram.me/bisal_files"
-bisal_grp = "https://t.me/+PA8OPL2Zglk3MDM1"
+bot_name = "direct_link_genrater_bot"
+SoYAL_channel = "https://t.me/apkpureee"
+bisal_grp = "https://t.me/Moddiscuss"
 
 class Var(object):
     MULTI_CLIENT = False
@@ -43,4 +43,4 @@ class Var(object):
     UPDATES_CHANNEL = str(getenv('UPDATES_CHANNEL', 'bisal_files')) 
     BANNED_CHANNELS = list(set(int(x) for x in str(getenv("BANNED_CHANNELS", "")).split()))   
     BAN_CHNL = list(set(int(x) for x in str(getenv("BAN_CHNL", "")).split()))   
-    BAN_ALERT = str(getenv('BAN_ALERT' , '<b>ʏᴏᴜʀ ᴀʀᴇ ʙᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ.Pʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ @biisal_bot ᴛᴏ ʀᴇsᴏʟᴠᴇ ᴛʜᴇ ɪssᴜᴇ!!</b>'))
+    BAN_ALERT = str(getenv('BAN_ALERT' , '<b>ʏᴏᴜʀ ᴀʀᴇ ʙᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ.Pʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ @Movieclub999_bot  ᴛᴏ ʀᴇsᴏʟᴠᴇ ᴛʜᴇ ɪssᴜᴇ!!</b>'))
