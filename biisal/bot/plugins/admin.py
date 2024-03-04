@@ -1,5 +1,5 @@
 # (c) @adarsh-goel
-# (c) @biisal
+# (c) @SoYAL
 import os
 import time
 import string
